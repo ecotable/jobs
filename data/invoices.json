@@ -1,0 +1,40 @@
+[
+  {
+    "number": "FR1234",
+    "provider_name": "Il  est beau mon gigôt",
+    "items": [
+      {
+        "description": "gigot entier",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "number": "IV9876",
+    "provider_name": "metro",
+    "items": [
+      {
+        "description": "Biscuit dessert AB",
+        "quantity": 100
+      },
+      {
+        "description": "Pain burger",
+        "quantity": 10
+      },
+      {
+        "description": "Tomates bio espagne",
+        "quantity": 50
+      }
+    ]
+  },
+  {
+    "number": "424242",
+    "provider_name": "Pierre Paul Jacques",
+    "items": [
+      {
+        "description": "Courgettes gros\r\n\r\nAgriculture BIOlógique",
+        "quantity": 42
+      }
+    ]
+  }
+]

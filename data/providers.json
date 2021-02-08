@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Il est beau mon gigot",
+    "organic": true
+  },
+  {
+    "id": 2,
+    "name": "SARL DUPONT",
+    "organic": false
+  },
+  {
+    "id": 3,
+    "name": "La ferme de viltain",
+    "organic": true
+  },
+  {
+    "id": 4,
+    "name": "METRO",
+    "organic": false
+  }
+]
